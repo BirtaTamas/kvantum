@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Tárgyi anyag (oktatói feladatleírás) – nem publikáljuk a nyilvános repóban
+Hazi_leiras_*.pdf
+
+# Leadási csomag
+*.zip
